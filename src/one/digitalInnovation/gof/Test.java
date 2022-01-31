@@ -1,5 +1,9 @@
 package one.digitalInnovation.gof;
 
+import one.digitalInnovation.gof.singleton.SingletonEager;
+import one.digitalInnovation.gof.singleton.SingletonLazy;
+import one.digitalInnovation.gof.singleton.SingletonLazyHolder;
+
 public class Test {
     public static void main(String[] args) {
         //Testes relacionados ao Design Pattern Singleton
